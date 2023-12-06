@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ghost-mellon
-- 👀 I’m interested in ... Web 3, AI, Machine Learning, Web Developmend, Mobile Development, Software Development 
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Web 3, AI, Machine Learning, Full Stack Web Development, Mobile Development, Software Development, Ui-Ux, 
+- 🌱 I’m currently learning ... JS, Python, React, Material Ui
+- 💞️ I’m looking to collaborate on ... web-3 projects
+- 📫 How to reach me ... cybermonk369@gmail.com
 
 <!---
 Ghost-mellon/Ghost-mellon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
